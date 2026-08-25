@@ -4,143 +4,110 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
-BASE_URL = "https://www.camaramorrinhos.ce.gov.br"
+BASE_URL = "https://camaramorrinhos.ce.gov.br"
+URL_MATERIAS = f"{BASE_URL}/materias"
 
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    )
+    ),
+    "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
 }
 
-# Rotas legislativas do portal
-SECOES = [
-    {"tipo": "Projetos de Lei", "url": f"{BASE_URL}/projetos-de-lei"},
-    {"tipo": "Requerimentos", "url": f"{BASE_URL}/requerimentos"},
-    {"tipo": "Indicações", "url": f"{BASE_URL}/indicacoes"},
-    {"tipo": "Moções", "url": f"{BASE_URL}/mocoes"},
-    {"tipo": "Atos Legislativos", "url": f"{BASE_URL}/legislacao"}
-]
+def limpar_texto(t):
+    return re.sub(r"\s+", " ", t).strip() if t else ""
 
-def extrair_materias():
+def raspar_materias():
     materias = []
-    print("Iniciando varredura das seções legislativas...")
+    print(f"Acessando {URL_MATERIAS}...")
 
-    for secao in SECOES:
-        try:
-            resp = requests.get(secao["url"], headers=HEADERS, timeout=12)
-            if resp.status_code == 200:
-                soup = BeautifulSoup(resp.content, "html.parser")
-                
-                # Procura linhas de tabelas, cards ou blocos de notícias/atos
-                elementos = soup.select("article, .post, tr, .card, .item-list, .view-content li")
-                
-                for el in elementos:
-                    texto = el.get_text(" ", strip=True)
-                    if len(texto) < 25:
-                        continue
-                        
-                    link_el = el.find("a")
-                    link = link_el["href"] if link_el and link_el.has_attr("href") else BASE_URL
-                    if link.startswith("/"):
-                        link = BASE_URL + link
-                        
-                    # Extrai título ou cabeçalho
-                    h_tag = el.find(["h1", "h2", "h3", "h4", "strong"])
-                    titulo = h_tag.get_text(strip=True) if h_tag else texto[:70]
-                    
-                    # Identifica status
-                    status = "Em tramitação"
-                    if re.search(r"aprovad[oa]", texto, re.I):
-                        status = "Aprovado"
-                    elif re.search(r"rejeitad[oa]", texto, re.I):
-                        status = "Rejeitado"
-                    elif re.search(r"comiss[aã]o|ccj", texto, re.I):
-                        status = "Nas Comissões"
-                    elif re.search(r"sancionad[oa]|promulgad[oa]", texto, re.I):
-                        status = "Sancionado / Promulgado"
+    try:
+        resp = requests.get(URL_MATERIAS, headers=HEADERS, timeout=15)
+        if resp.status_code != 200:
+            print(f"Erro ao acessar página: Status {resp.status_code}")
+            return materias
 
-                    # Data
-                    data_match = re.search(r"\b(\d{2}/\d{2}/\d{4})\b", texto)
-                    data_materia = data_match.group(1) if data_match else datetime.now().strftime("%d/%m/%Y")
+        soup = BeautifulSoup(resp.content, "html.parser")
+        
+        # O portal organiza as matérias em linhas (tr) ou cards (div.materia / div.item / article)
+        itens = soup.select("table tbody tr, .card-materia, article, .item-materia, .view-content .views-row")
+        
+        # Se a seleção acima não encontrar, varre todas as tags <tr> da página
+        if not itens:
+            itens = soup.find_all("tr")
 
-                    # Identificador
-                    id_match = re.search(r"(\d+[\/\-]\d{2,4})", titulo)
-                    mat_id = f"{secao['tipo']} {id_match.group(1)}" if id_match else f"{secao['tipo']} #{len(materias)+1}"
+        for idx, item in enumerate(itens):
+            texto_bruto = item.get_text(" ", strip=True)
+            if len(texto_bruto) < 20:
+                continue
 
-                    materias.append({
-                        "id": mat_id,
-                        "tipo": secao["tipo"],
-                        "titulo": titulo[:110],
-                        "ementa": texto[:280] + ("..." if len(texto) > 280 else ""),
-                        "autor": "Câmara Municipal de Morrinhos",
-                        "status": status,
-                        "data": data_materia,
-                        "link_original": link,
-                        "tramitacoes": [
-                            {"data": data_materia, "despacho": f"Publicado em {secao['tipo']}", "unidade": "Secretaria Geral"},
-                            {"data": data_materia, "despacho": status, "unidade": "Plenário"}
-                        ]
-                    })
-        except Exception as e:
-            print(f"Aviso ao consultar {secao['url']}: {e}")
+            # Link da matéria
+            link_tag = item.find("a")
+            link = link_tag["href"] if link_tag and link_tag.has_attr("href") else URL_MATERIAS
+            if link.startswith("/"):
+                link = BASE_URL + link
 
-    # Fallback estruturado com histórico real se a conexão com o portal oscilar
-    if not materias:
-        materias = [
-            {
-                "id": "PL nº 008/2026",
-                "tipo": "Projeto de Lei",
-                "titulo": "Projeto de Lei Ordinária nº 008/2026",
-                "ementa": "Dispõe sobre as diretrizes para elaboração da Lei Orçamentária Anual do Município de Morrinhos e dá outras providências.",
-                "autor": "Poder Executivo / Mesa Diretora",
-                "status": "Aprovado",
-                "data": "14/08/2026",
-                "link_original": BASE_URL,
+            # Título ou Identificação
+            titulo_tag = item.find(["h2", "h3", "h4", "strong", "a"])
+            titulo = limpar_texto(titulo_tag.get_text()) if titulo_tag else f"Matéria #{idx+1}"
+
+            # Extração de Data
+            data_match = re.search(r"\b(\d{2}/\d{2}/\d{4})\b", texto_bruto)
+            data_pub = data_match.group(1) if data_match else datetime.now().strftime("%d/%m/%Y")
+
+            # Identificação de Status / Situação
+            status = "Em tramitação"
+            if re.search(r"aprovad[oa]", texto_bruto, re.I):
+                status = "Aprovado"
+            elif re.search(r"rejeitad[oa]", texto_bruto, re.I):
+                status = "Rejeitado"
+            elif re.search(r"sancionad[oa]|promulgad[oa]", texto_bruto, re.I):
+                status = "Sancionado"
+            elif re.search(r"comiss[aã]o|ccj", texto_bruto, re.I):
+                status = "Em Comissão"
+
+            # Identificação do Autor
+            autor_match = re.search(r"(?:Autor|Vereador\(a\)|Autoria):\s*([^,\n\r\t]+)", texto_bruto, re.I)
+            autor = limpar_texto(autor_match.group(1)) if autor_match else "Câmara Municipal de Morrinhos"
+
+            # Ementa / Descrição
+            ementa = texto_bruto
+            if len(ementa) > 280:
+                ementa = ementa[:280] + "..."
+
+            materias.append({
+                "id": f"MAT-{idx+1:03d}",
+                "titulo": titulo[:120],
+                "ementa": ementa,
+                "autor": autor[:80],
+                "status": status,
+                "data": data_pub,
+                "link_original": link,
                 "tramitacoes": [
-                    {"data": "05/08/2026", "despacho": "Leitura em Sessão Plenária", "unidade": "Plenário"},
-                    {"data": "10/08/2026", "despacho": "Parecer Favorável da CCJ", "unidade": "Comissões Técnicas"},
-                    {"data": "14/08/2026", "despacho": "Aprovado por Unanimidade", "unidade": "Plenário"}
+                    {"data": data_pub, "despacho": "Publicado no Portal Legislativo", "unidade": "Secretaria Geral"},
+                    {"data": data_pub, "despacho": status, "unidade": "Plenário"}
                 ]
-            },
-            {
-                "id": "REQ nº 042/2026",
-                "tipo": "Requerimento",
-                "titulo": "Requerimento nº 042/2026",
-                "ementa": "Solicita a manutenção da iluminação pública e pavimentação asfáltica em vias do município.",
-                "autor": "Gabinete Parlamentar",
-                "status": "Em tramitação",
-                "data": "18/08/2026",
-                "link_original": BASE_URL,
-                "tramitacoes": [
-                    {"data": "18/08/2026", "despacho": "Protocolado e Lido no Expediente", "unidade": "Secretaria Geral"}
-                ]
-            },
-            {
-                "id": "IND nº 019/2026",
-                "tipo": "Indicação",
-                "titulo": "Indicação nº 019/2026",
-                "ementa": "Indica ao Executivo Municipal a implantação de programa de incentivo à leitura nas escolas públicas municipais.",
-                "autor": "Mesa Diretora",
-                "status": "Aprovado",
-                "data": "21/08/2026",
-                "link_original": BASE_URL,
-                "tramitacoes": [
-                    {"data": "21/08/2026", "despacho": "Aprovado em Plenário e Encaminhado ao Executivo", "unidade": "Plenário"}
-                ]
-            }
-        ]
+            })
+
+    except Exception as e:
+        print(f"Erro durante a extração: {e}")
+
+    return materias
+
+def main():
+    lista_materias = raspar_materias()
 
     payload = {
         "ultima_atualizacao": datetime.now().strftime("%d/%m/%Y às %H:%M:%S"),
-        "total": len(materias),
-        "materias": materias
+        "total": len(lista_materias),
+        "materias": lista_materias
     }
 
     with open("dados_materias.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    print(f"Concluído: {len(materias)} proposituras registradas no JSON.")
+    print(f"Finalizado: {len(lista_materias)} matérias salvas em dados_materias.json")
 
 if __name__ == "__main__":
-    extrair_materias()
+    main()
