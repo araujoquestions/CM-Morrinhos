@@ -1,9 +1,177 @@
 {
-  "ultima_atualizacao": "25/09/2026 às 14:27:53",
-  "total": 65,
+  "ultima_atualizacao": "26/09/2026 às 13:38:58",
+  "total": 68,
   "materias": [
     {
       "id": "MAT-001",
+      "titulo": "PROJETO DE LEI - EXECUTIVO : 0738/2026",
+      "ementa": "PROJETO DE LEI - EXECUTIVO : 0738/2026 PROJETO DE LEI N° 738/2026 QUE “DECLARA DE UTILIDADE PÚBLICA MUNICIPAL O SINDICATO DOS TRABALHADORES RURAIS AGRICULTORES E AGRICULTORAS FAMILIARES DE MORRINHOS – STRAAF MORRINHOS, E DÁ OUTRAS PROVIDÊNCIAS”. 15/09/2026 Autor: Jerônimo Neto Br...",
+      "autor": "Jerônimo Neto Brandão Fase: Leitura do Projeto Situação: Em Tramitação",
+      "status": "Em tramitação",
+      "data": "15/09/2026",
+      "link_original": "materias/2241",
+      "tramitacoes": [
+        {
+          "data": "15/09/2026",
+          "despacho": "Publicado no Portal Legislativo",
+          "unidade": "Secretaria Geral"
+        },
+        {
+          "data": "15/09/2026",
+          "despacho": "Em tramitação",
+          "unidade": "Plenário"
+        }
+      ]
+    },
+    {
+      "id": "MAT-003",
+      "titulo": "Autor:",
+      "ementa": "Autor: Jerônimo Neto Brandão",
+      "autor": "Jerônimo Neto Brandão",
+      "status": "Em tramitação",
+      "data": "26/09/2026",
+      "link_original": "https://camaramorrinhos.ce.gov.br/materias",
+      "tramitacoes": [
+        {
+          "data": "26/09/2026",
+          "despacho": "Publicado no Portal Legislativo",
+          "unidade": "Secretaria Geral"
+        },
+        {
+          "data": "26/09/2026",
+          "despacho": "Em tramitação",
+          "unidade": "Plenário"
+        }
+      ]
+    },
+    {
+      "id": "MAT-004",
+      "titulo": "Fase:",
+      "ementa": "Fase: Leitura do Projeto",
+      "autor": "Câmara Municipal de Morrinhos",
+      "status": "Em tramitação",
+      "data": "26/09/2026",
+      "link_original": "https://camaramorrinhos.ce.gov.br/materias",
+      "tramitacoes": [
+        {
+          "data": "26/09/2026",
+          "despacho": "Publicado no Portal Legislativo",
+          "unidade": "Secretaria Geral"
+        },
+        {
+          "data": "26/09/2026",
+          "despacho": "Em tramitação",
+          "unidade": "Plenário"
+        }
+      ]
+    },
+    {
+      "id": "MAT-005",
+      "titulo": "Situação:",
+      "ementa": "Situação: Em Tramitação",
+      "autor": "Câmara Municipal de Morrinhos",
+      "status": "Em tramitação",
+      "data": "26/09/2026",
+      "link_original": "https://camaramorrinhos.ce.gov.br/materias",
+      "tramitacoes": [
+        {
+          "data": "26/09/2026",
+          "despacho": "Publicado no Portal Legislativo",
+          "unidade": "Secretaria Geral"
+        },
+        {
+          "data": "26/09/2026",
+          "despacho": "Em tramitação",
+          "unidade": "Plenário"
+        }
+      ]
+    },
+    {
+      "id": "MAT-008",
+      "titulo": "PROJETO DE LEI - EXECUTIVO : 0737/2026",
+      "ementa": "PROJETO DE LEI - EXECUTIVO : 0737/2026 PROJETO DE LEI N° 737/2026 QUE “INSTITUI A POLÍTICA MUNICIPAL DE ALFABETIZAÇÃO NO ÂMBITO DO MUNICÍPIO DE MORRINHOS /CE E DÁ OUTRAS PROVIDÊNCIAS”. 15/09/2026 Autor: Jerônimo Neto Brandão Fase: Leitura do Projeto Situação: Em Tramitação",
+      "autor": "Jerônimo Neto Brandão Fase: Leitura do Projeto Situação: Em Tramitação",
+      "status": "Em tramitação",
+      "data": "15/09/2026",
+      "link_original": "materias/2240",
+      "tramitacoes": [
+        {
+          "data": "15/09/2026",
+          "despacho": "Publicado no Portal Legislativo",
+          "unidade": "Secretaria Geral"
+        },
+        {
+          "data": "15/09/2026",
+          "despacho": "Em tramitação",
+          "unidade": "Plenário"
+        }
+      ]
+    },
+    {
+      "id": "MAT-010",
+      "titulo": "Autor:",
+      "ementa": "Autor: Jerônimo Neto Brandão",
+      "autor": "Jerônimo Neto Brandão",
+      "status": "Em tramitação",
+      "data": "26/09/2026",
+      "link_original": "https://camaramorrinhos.ce.gov.br/materias",
+      "tramitacoes": [
+        {
+          "data": "26/09/2026",
+          "despacho": "Publicado no Portal Legislativo",
+          "unidade": "Secretaria Geral"
+        },
+        {
+          "data": "26/09/2026",
+          "despacho": "Em tramitação",
+          "unidade": "Plenário"
+        }
+      ]
+    },
+    {
+      "id": "MAT-011",
+      "titulo": "Fase:",
+      "ementa": "Fase: Leitura do Projeto",
+      "autor": "Câmara Municipal de Morrinhos",
+      "status": "Em tramitação",
+      "data": "26/09/2026",
+      "link_original": "https://camaramorrinhos.ce.gov.br/materias",
+      "tramitacoes": [
+        {
+          "data": "26/09/2026",
+          "despacho": "Publicado no Portal Legislativo",
+          "unidade": "Secretaria Geral"
+        },
+        {
+          "data": "26/09/2026",
+          "despacho": "Em tramitação",
+          "unidade": "Plenário"
+        }
+      ]
+    },
+    {
+      "id": "MAT-012",
+      "titulo": "Situação:",
+      "ementa": "Situação: Em Tramitação",
+      "autor": "Câmara Municipal de Morrinhos",
+      "status": "Em tramitação",
+      "data": "26/09/2026",
+      "link_original": "https://camaramorrinhos.ce.gov.br/materias",
+      "tramitacoes": [
+        {
+          "data": "26/09/2026",
+          "despacho": "Publicado no Portal Legislativo",
+          "unidade": "Secretaria Geral"
+        },
+        {
+          "data": "26/09/2026",
+          "despacho": "Em tramitação",
+          "unidade": "Plenário"
+        }
+      ]
+    },
+    {
+      "id": "MAT-015",
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 86/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 86/2026 PARECER N° 86/2026 DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL AO PROJETO DE LEI Nº 736/2026 QUE “DISPÕE SOBRE A DENOMINAÇÃO DA ARENINHA ESPORTIVA LOCALIZADA NO DISTRITO DE SÍTIO ALEGRE, NESTE MUNICÍPIO DE...",
       "autor": "Comissão de Justiça",
@@ -24,28 +192,28 @@
       ]
     },
     {
-      "id": "MAT-003",
+      "id": "MAT-017",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-008",
+      "id": "MAT-022",
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 85/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 85/2026 PARECER N° 85/2026 DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL AO PROJETO DE LEI N° 735/2026 QUE “DISPÕE SOBRE A DENOMINAÇÃO DO CONJUNTO HABITACIONAL NA SEDE NESTE MUNICÍPIO E DÁ OUTRAS PROVIDÊNCIAS”. 10/0...",
       "autor": "Comissão de Justiça",
@@ -66,28 +234,28 @@
       ]
     },
     {
-      "id": "MAT-010",
+      "id": "MAT-024",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-015",
+      "id": "MAT-029",
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 84/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 84/2026 PARECER N° 84/2026 DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL AO PROJETO DE LEI N° 734/2026 QUE “DISPÕE SOBRE A DENOMINAÇÃO DO CENTRO ESPORTIVO LOCALIZADO NO CONJUNTO AREAL, NA SEDE DO MUNICÍPIO DE MORRIN...",
       "autor": "Comissão de Justiça",
@@ -108,28 +276,28 @@
       ]
     },
     {
-      "id": "MAT-017",
+      "id": "MAT-031",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-022",
+      "id": "MAT-036",
       "titulo": "PARECER DA COMISSÃO DE ORÇAMENTO E FINANÇAS: 87/2026",
       "ementa": "PARECER DA COMISSÃO DE ORÇAMENTO E FINANÇAS: 87/2026 PARECER N° 87/2026 DA COMISSÃO DE FINANÇAS E ORÇAMENTO AO PROJETO DE LEI N° 733/2026. 10/09/2026 Autor: Comissão de Orçamento e Finanças Fase: Votação Situação: Aprovado",
       "autor": "Comissão de Orçamento e Finanças Fase: Votação Situação: Aprovado",
@@ -150,28 +318,28 @@
       ]
     },
     {
-      "id": "MAT-024",
+      "id": "MAT-038",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Orçamento e Finanças",
       "autor": "Comissão de Orçamento e Finanças",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-029",
+      "id": "MAT-043",
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 83/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 83/2026 PARECER N° 83/2026 DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL AO PROJETO DE LEI N° 733/2026 QUE “INSTITUI O PROGRAMA DE RECUPERAÇÃO DE CRÉDITOS FISCAIS – REFIS/MORRINHOS 2026 E DÁ OUTRAS PROVIDÊNCIAS”. 10...",
       "autor": "Comissão de Justiça",
@@ -192,28 +360,28 @@
       ]
     },
     {
-      "id": "MAT-031",
+      "id": "MAT-045",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-036",
+      "id": "MAT-050",
       "titulo": "PROJETO DE LEI - EXECUTIVO : 0736/2026",
       "ementa": "PROJETO DE LEI - EXECUTIVO : 0736/2026 PROJETO DE LEI Nº 736/2026 QUE “DISPÕE SOBRE A DENOMINAÇÃO DA ARENINHA ESPORTIVA LOCALIZADA NO DISTRITO DE SÍTIO ALEGRE, NESTE MUNICÍPIO DE MORRINHOS-CE”. 04/09/2026 Autor: Jerônimo Neto Brandão Fase: Votação Situação: Aprovado",
       "autor": "Jerônimo Neto Brandão Fase: Votação Situação: Aprovado",
@@ -234,28 +402,28 @@
       ]
     },
     {
-      "id": "MAT-038",
+      "id": "MAT-052",
       "titulo": "Autor:",
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-043",
+      "id": "MAT-057",
       "titulo": "PROJETO DE LEI - EXECUTIVO : 0735/2026",
       "ementa": "PROJETO DE LEI - EXECUTIVO : 0735/2026 PROJETO DE LEI N° 735/2026 QUE “DISPÕE SOBRE A DENOMINAÇÃO DO CONJUNTO HABITACIONAL NA SEDE NESTE MUNICÍPIO E DÁ OUTRAS PROVIDÊNCIAS”. 04/09/2026 Autor: Jerônimo Neto Brandão Fase: Votação Situação: Aprovado",
       "autor": "Jerônimo Neto Brandão Fase: Votação Situação: Aprovado",
@@ -276,28 +444,28 @@
       ]
     },
     {
-      "id": "MAT-045",
+      "id": "MAT-059",
       "titulo": "Autor:",
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-050",
+      "id": "MAT-064",
       "titulo": "PROJETO DE LEI - EXECUTIVO : 0734/2026",
       "ementa": "PROJETO DE LEI - EXECUTIVO : 0734/2026 PROJETO DE LEI N° 734/2026 QUE “DISPÕE SOBRE A DENOMINAÇÃO DO CENTRO ESPORTIVO LOCALIZADO NO CONJUNTO AREAL, NA SEDE DO MUNICÍPIO DE MORRINHOS-CE”. 04/09/2026 Autor: Jerônimo Neto Brandão Fase: Votação Situação: Aprovado",
       "autor": "Jerônimo Neto Brandão Fase: Votação Situação: Aprovado",
@@ -318,28 +486,28 @@
       ]
     },
     {
-      "id": "MAT-052",
+      "id": "MAT-066",
       "titulo": "Autor:",
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-057",
+      "id": "MAT-071",
       "titulo": "PROJETO DE LEI - EXECUTIVO : 0733/2026",
       "ementa": "PROJETO DE LEI - EXECUTIVO : 0733/2026 PROJETO DE LEI N° 733/2026 QUE “INSTITUI O PROGRAMA DE RECUPERAÇÃO DE CRÉDITOS FISCAIS – REFIS/MORRINHOS 2026 E DÁ OUTRAS PROVIDÊNCIAS” 04/09/2026 Autor: Jerônimo Neto Brandão Fase: Votação Situação: Aprovado",
       "autor": "Jerônimo Neto Brandão Fase: Votação Situação: Aprovado",
@@ -360,28 +528,28 @@
       ]
     },
     {
-      "id": "MAT-059",
+      "id": "MAT-073",
       "titulo": "Autor:",
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-064",
+      "id": "MAT-078",
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 82/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 82/2026 PARECER Nº 82/2026 DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL AO PROJETO DE LEI LEGISLATIVO N° 16/2026 QUE “DENOMINA DE POSTO DE SAÚDE ANA RÉRICA DE MESSIAS O POSTO DE SAÚDE EM CONSTRUÇÃO NO CONJUNTO AREI...",
       "autor": "Comissão de Justiça",
@@ -402,28 +570,28 @@
       ]
     },
     {
-      "id": "MAT-066",
+      "id": "MAT-080",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-071",
+      "id": "MAT-085",
       "titulo": "INDICAÇÃO: 0124/2026",
       "ementa": "INDICAÇÃO: 0124/2026 INDICAÇÃO Nº 124/2026 DE 19 DE AGOSTO DE 2026 INDICA AO PODER EXECUTIVO A ADOÇÃO DAS PROVIDÊNCIAS NECESSÁRIAS PARA A CRIAÇÃO DA POLÍTICA MUNICIPAL DE SEGURANÇA E MONITORAMENTO 24 HORAS POR MEIO DE TECNOLOGIA APLICADA À GESTÃO DE IMAGENS, NO ÂMBITO DO MUNICÍPI...",
       "autor": "Jose Ivan Araujo Fase: Lido e Encaminhado Ao Destinatário Situação: Entregue Ao ",
@@ -444,70 +612,70 @@
       ]
     },
     {
-      "id": "MAT-073",
+      "id": "MAT-087",
       "titulo": "Autor:",
       "ementa": "Autor: Jose Ivan Araujo",
       "autor": "Jose Ivan Araujo",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-074",
+      "id": "MAT-088",
       "titulo": "Fase:",
       "ementa": "Fase: Lido e Encaminhado Ao Destinatário",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-075",
+      "id": "MAT-089",
       "titulo": "Situação:",
       "ementa": "Situação: Entregue Ao Destinatário",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-078",
+      "id": "MAT-092",
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 80/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 80/2026 PARECER Nº 80/2026 DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL AO PROJETO DE DECRETO LEGISLATIVO Nº 18/2026, QUE “CONCEDE O TÍTULO DE CIDADÃO MORRINHENSE AO SR. FRANCISCO ELISVÂNDIO CUNHA E DÁ OUTRAS PROVI...",
       "autor": "Comissão de Justiça",
@@ -528,28 +696,28 @@
       ]
     },
     {
-      "id": "MAT-080",
+      "id": "MAT-094",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-085",
+      "id": "MAT-099",
       "titulo": "PARECER DA COMISSÃO DE SERVIÇO PÚBLICO, SAÚDE E EDUCAÇÃO: 81/2026",
       "ementa": "PARECER DA COMISSÃO DE SERVIÇO PÚBLICO, SAÚDE E EDUCAÇÃO: 81/2026 PARECER Nº 81/2026 DA COMISSÃO DE OBRAS, SERVIÇOS PÚBLICOS, EDUCAÇÃO, SAÚDE E ASSISTÊNCIA SOCIAL AO PROJETO DE LEI LEGISLATIVO Nº 15/2026. 19/08/2026 Autor: Comissão de Obras, Serviços Públicos, Educação, Saúde e A...",
       "autor": "Comissão de Obras",
@@ -570,28 +738,28 @@
       ]
     },
     {
-      "id": "MAT-087",
+      "id": "MAT-101",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Obras, Serviços Públicos, Educação, Saúde e Assistência Social",
       "autor": "Comissão de Obras",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-092",
+      "id": "MAT-106",
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 79/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 79/2026 PARECER Nº 79/2026 DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL AO PROJETO DE LEI LEGISLATIVO Nº 15/2026, QUE “DECLARA DE UTILIDADE PÚBLICA MUNICIPAL A ASSOCIAÇÃO COMUNITÁRIA DOS MORADORES DE PEBA, NO MUNIC...",
       "autor": "Comissão de Justiça",
@@ -612,28 +780,28 @@
       ]
     },
     {
-      "id": "MAT-094",
+      "id": "MAT-108",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-099",
+      "id": "MAT-113",
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 78/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 78/2026 PARECER Nº 78/2026 DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL AO PROJETO DE LEI Nº 732/2026, QUE “INSTITUI O DIA MUNICIPAL DO MOVIMENTO MÃES QUE ORAM PELOS FILHOS, A SER CELEBRADO ANUALMENTE NO DIA 30 DE ...",
       "autor": "Comissão de Justiça",
@@ -654,28 +822,28 @@
       ]
     },
     {
-      "id": "MAT-101",
+      "id": "MAT-115",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-106",
+      "id": "MAT-120",
       "titulo": "PROJETO DE LEI - LEGISLATIVO: 0016/2026",
       "ementa": "PROJETO DE LEI - LEGISLATIVO: 0016/2026 PROJETO DE LEI LEGISLATIVO N° 16/2026 QUE “DENOMINA DE POSTO DE SAÚDE ANA RÉRICA DE MESSIAS O POSTO DE SAÚDE EM CONSTRUÇÃO NO CONJUNTO AREIAL, NO MUNICÍPIO DE MORRINHOS, ESTADO DO CEARÁ, E DÁ OUTRAS PROVIDÊNCIAS”. 17/08/2026 Autor: Jose Eds...",
       "autor": "Jose Edson de Lira Fase: Votação Situação: Aprovado",
@@ -696,28 +864,28 @@
       ]
     },
     {
-      "id": "MAT-108",
+      "id": "MAT-122",
       "titulo": "Autor:",
       "ementa": "Autor: Jose Edson de Lira",
       "autor": "Jose Edson de Lira",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-113",
+      "id": "MAT-127",
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 76/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 76/2026 PARECER N° 76/2026 DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL AO PROJETO DE DECRETO LEGISLATIVO Nº 17/2026 QUE “CONCEDE O TÍTULO DE CIDADÃO MORRINHENSE AO SR. FRANCISCO SÉRGIO ROCHA E DÁ OUTRAS PROVIDÊNCI...",
       "autor": "Comissão de Justiça",
@@ -738,28 +906,28 @@
       ]
     },
     {
-      "id": "MAT-115",
+      "id": "MAT-129",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-120",
+      "id": "MAT-134",
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 75/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 75/2026 PARECER N° 75/2026 DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL AO PROJETO DE DECRETO LEGISLATIVO Nº 16/2026 QUE “CONCEDE O TÍTULO DE CIDADÃO MORRINHENSE AO SR. FRANCISCO WALBER CEZAR LIMA E DÁ OUTRAS PROVI...",
       "autor": "Comissão de Justiça",
@@ -780,28 +948,28 @@
       ]
     },
     {
-      "id": "MAT-122",
+      "id": "MAT-136",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-127",
+      "id": "MAT-141",
       "titulo": "PROJETO DE LEI - EXECUTIVO : 0732/2026",
       "ementa": "PROJETO DE LEI - EXECUTIVO : 0732/2026 PROJETO DE LEI N° 732/2026 QUE “INSTITUI O DIA MUNICIPAL DO MOVIMENTO MÃES QUE ORAM PELOS FILHOS, A SER CELEBRADO ANUALMENTE NO DIA 30 DE MARÇO E DÁ OUTRAS PROVIDÊNCIAS”. 14/08/2026 Autor: Jerônimo Neto Brandão Fase: Votação Situação: Aprova...",
       "autor": "Jerônimo Neto Brandão Fase: Votação Situação: Aprovado",
@@ -822,28 +990,28 @@
       ]
     },
     {
-      "id": "MAT-129",
+      "id": "MAT-143",
       "titulo": "Autor:",
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-134",
+      "id": "MAT-148",
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 74/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 74/2026 PARECER N° 74/2026 DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL AO PROJETO DE LEI LEGISLATIVO Nº 14/2026 QUE “DENOMINA DE ESCOLA DE ENSINO FUNDAMENTAL JOSÉ TIMÓTEO DE MARIA A ESCOLA PÚBLICA EM CONSTRUÇÃO LO...",
       "autor": "Comissão de Justiça",
@@ -864,28 +1032,28 @@
       ]
     },
     {
-      "id": "MAT-136",
+      "id": "MAT-150",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-141",
+      "id": "MAT-155",
       "titulo": "PARECER DA COMISSÃO DE ORÇAMENTO E FINANÇAS: 77/2026",
       "ementa": "PARECER DA COMISSÃO DE ORÇAMENTO E FINANÇAS: 77/2026 PARECER N° 77/2026 DA COMISSÃO DE FINANÇAS E ORÇAMENTO AO PROJETO DE LEI LEGISLATIVO Nº 13/2026. 13/08/2026 Autor: Comissão de Orçamento e Finanças Fase: Votação Situação: Aprovado",
       "autor": "Comissão de Orçamento e Finanças Fase: Votação Situação: Aprovado",
@@ -906,28 +1074,28 @@
       ]
     },
     {
-      "id": "MAT-143",
+      "id": "MAT-157",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Orçamento e Finanças",
       "autor": "Comissão de Orçamento e Finanças",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-148",
+      "id": "MAT-162",
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 73/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 73/2026 PARECER N° 73/2026 DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL AO PROJETO DE LEI LEGISLATIVO Nº 13/2026 QUE “DISPÕE SOBRE A CRIAÇÃO DE CARGOS DE PROVIMENTO EFETIVO NO QUADRO PERMANENTE DE PESSOAL DA CÂMARA...",
       "autor": "Comissão de Justiça",
@@ -948,28 +1116,28 @@
       ]
     },
     {
-      "id": "MAT-150",
+      "id": "MAT-164",
       "titulo": "Autor:",
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-155",
+      "id": "MAT-169",
       "titulo": "INDICAÇÃO: 0123/2026",
       "ementa": "INDICAÇÃO: 0123/2026 INDICAÇÃO Nº 123/2026 DE 12 DE AGOSTO DE 2026. INDICA AO EXCELENTÍSSIMO SENHOR PREFEITO MUNICIPAL DE MORRINHOS A ADOÇÃO DE PROVIDÊNCIAS PARA VIABILIZAR A IMPLANTAÇÃO DE ILUMINAÇÃO PÚBLICA E A CONSTRUÇÃO DE CALÇADÃO DESTINADO À PRÁTICA DE ATIVIDADES FÍSICAS, A...",
       "autor": "Marcos Antonio Teixeira Magalhaes Fase: Lido e Encaminhado Ao Destinatário Situa",
@@ -990,70 +1158,70 @@
       ]
     },
     {
-      "id": "MAT-157",
+      "id": "MAT-171",
       "titulo": "Autor:",
       "ementa": "Autor: Marcos Antonio Teixeira Magalhaes",
       "autor": "Marcos Antonio Teixeira Magalhaes",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-158",
+      "id": "MAT-172",
       "titulo": "Fase:",
       "ementa": "Fase: Lido e Encaminhado Ao Destinatário",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-159",
+      "id": "MAT-173",
       "titulo": "Situação:",
       "ementa": "Situação: Entregue Ao Destinatário",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-162",
+      "id": "MAT-176",
       "titulo": "PROJETO DE DECRETO - LEGISLATIVO: 0018/2026",
       "ementa": "PROJETO DE DECRETO - LEGISLATIVO: 0018/2026 PROJETO DE DECRETO LEGISLATIVO N° 18/2026 QUE “CONCEDE O TÍTULO DE CIDADÃO MORRINHENSE AO SR. FRANCISCO ELISVÂNDIO CUNHA E DÁ OUTRAS PROVIDÊNCIAS”. 12/08/2026 Autor: Marcos Antonio Teixeira Magalhaes Fase: Votação Situação: Aprovado",
       "autor": "Marcos Antonio Teixeira Magalhaes Fase: Votação Situação: Aprovado",
@@ -1074,28 +1242,28 @@
       ]
     },
     {
-      "id": "MAT-164",
+      "id": "MAT-178",
       "titulo": "Autor:",
       "ementa": "Autor: Marcos Antonio Teixeira Magalhaes",
       "autor": "Marcos Antonio Teixeira Magalhaes",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-169",
+      "id": "MAT-183",
       "titulo": "PROJETO DE LEI - LEGISLATIVO: 0015/2026",
       "ementa": "PROJETO DE LEI - LEGISLATIVO: 0015/2026 PROJETO DE LEI LEGISLATIVO N° 15/2026 QUE “DECLARA DE UTILIDADE PÚBLICA MUNICIPAL A ASSOCIAÇÃO COMUNITÁRIA DOS MORADORES DE PEBA, NO MUNICÍPIO DE MORRINHOS/CE, E DÁ OUTRAS PROVIDÊNCIAS”. 12/08/2026 Autor: Marcos Antonio Teixeira Magalhaes F...",
       "autor": "Marcos Antonio Teixeira Magalhaes Fase: Votação Situação: Aprovado",
@@ -1116,28 +1284,28 @@
       ]
     },
     {
-      "id": "MAT-171",
+      "id": "MAT-185",
       "titulo": "Autor:",
       "ementa": "Autor: Marcos Antonio Teixeira Magalhaes",
       "autor": "Marcos Antonio Teixeira Magalhaes",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-176",
+      "id": "MAT-190",
       "titulo": "PROJETO DE DECRETO - LEGISLATIVO: 0017/2026",
       "ementa": "PROJETO DE DECRETO - LEGISLATIVO: 0017/2026 PROJETO DE DECRETO LEGISLATIVO Nº 17/2026 QUE “CONCEDE O TÍTULO DE CIDADÃO MORRINHENSE AO SR. FRANCISCO SÉRGIO ROCHA E DÁ OUTRAS PROVIDÊNCIAS”. 05/08/2026 Autor: Marcos Antonio Teixeira Magalhaes Fase: Votação Situação: Aprovado",
       "autor": "Marcos Antonio Teixeira Magalhaes Fase: Votação Situação: Aprovado",
@@ -1158,28 +1326,28 @@
       ]
     },
     {
-      "id": "MAT-178",
+      "id": "MAT-192",
       "titulo": "Autor:",
       "ementa": "Autor: Marcos Antonio Teixeira Magalhaes",
       "autor": "Marcos Antonio Teixeira Magalhaes",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-183",
+      "id": "MAT-197",
       "titulo": "PROJETO DE DECRETO - LEGISLATIVO: 0016/2026",
       "ementa": "PROJETO DE DECRETO - LEGISLATIVO: 0016/2026 PROJETO DE DECRETO LEGISLATIVO Nº 16/2026 QUE “CONCEDE O TÍTULO DE CIDADÃO MORRINHENSE AO SR. FRANCISCO WALBER CEZAR LIMA E DÁ OUTRAS PROVIDÊNCIAS”. 05/08/2026 Autor: Marcos Antonio Teixeira Magalhaes Fase: Votação Situação: Aprovado",
       "autor": "Marcos Antonio Teixeira Magalhaes Fase: Votação Situação: Aprovado",
@@ -1200,28 +1368,28 @@
       ]
     },
     {
-      "id": "MAT-185",
+      "id": "MAT-199",
       "titulo": "Autor:",
       "ementa": "Autor: Marcos Antonio Teixeira Magalhaes",
       "autor": "Marcos Antonio Teixeira Magalhaes",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
     },
     {
-      "id": "MAT-190",
+      "id": "MAT-204",
       "titulo": "PROJETO DE LEI - LEGISLATIVO: 0014/2026",
       "ementa": "PROJETO DE LEI - LEGISLATIVO: 0014/2026 “DENOMINA DE ESCOLA DE ENSINO FUNDAMENTAL JOSÉ TIMÓTEO DE MARIA A ESCOLA PÚBLICA EM CONSTRUÇÃO LOCALIZADA NO CONJUNTO HABITACIONAL FRANCISCO EDUARDO CARNEIRO (CONJUNTO AREIAL) E DÁ OUTRAS PROVIDÊNCIAS.” 03/08/2026 Autor: Jose Edson de Lira ...",
       "autor": "Jose Edson de Lira Fase: Votação Situação: Aprovado",
@@ -1242,126 +1410,21 @@
       ]
     },
     {
-      "id": "MAT-192",
+      "id": "MAT-206",
       "titulo": "Autor:",
       "ementa": "Autor: Jose Edson de Lira",
       "autor": "Jose Edson de Lira",
       "status": "Em tramitação",
-      "data": "25/09/2026",
+      "data": "26/09/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "25/09/2026",
-          "despacho": "Em tramitação",
-          "unidade": "Plenário"
-        }
-      ]
-    },
-    {
-      "id": "MAT-197",
-      "titulo": "PROJETO DE LEI - LEGISLATIVO: 0013/2026",
-      "ementa": "PROJETO DE LEI - LEGISLATIVO: 0013/2026 DISPÕE SOBRE A CRIAÇÃO DE CARGOS DE PROVIMENTO EFETIVO NO QUADRO PERMANENTE DE PESSOAL DA CÂMARA MUNICIPAL DE MORRINHOS, ESTABELECE NORMAS GERAIS PARA A REALIZAÇÃO DE CONCURSO PÚBLICO PARA PROVIMENTO DOS CARGOS EFETIVOS DO PODER LEGISLATIVO...",
-      "autor": "Mesa Diretora Fase: Votação Situação: Aprovado",
-      "status": "Aprovado",
-      "data": "03/08/2026",
-      "link_original": "materias/2211",
-      "tramitacoes": [
-        {
-          "data": "03/08/2026",
-          "despacho": "Publicado no Portal Legislativo",
-          "unidade": "Secretaria Geral"
-        },
-        {
-          "data": "03/08/2026",
-          "despacho": "Aprovado",
-          "unidade": "Plenário"
-        }
-      ]
-    },
-    {
-      "id": "MAT-199",
-      "titulo": "Autor:",
-      "ementa": "Autor: Mesa Diretora",
-      "autor": "Mesa Diretora",
-      "status": "Em tramitação",
-      "data": "25/09/2026",
-      "link_original": "https://camaramorrinhos.ce.gov.br/materias",
-      "tramitacoes": [
-        {
-          "data": "25/09/2026",
-          "despacho": "Publicado no Portal Legislativo",
-          "unidade": "Secretaria Geral"
-        },
-        {
-          "data": "25/09/2026",
-          "despacho": "Em tramitação",
-          "unidade": "Plenário"
-        }
-      ]
-    },
-    {
-      "id": "MAT-204",
-      "titulo": "PARECER CONJUNTO - 3 COMISSÕES PERMANENTES: 72/2026",
-      "ementa": "PARECER CONJUNTO - 3 COMISSÕES PERMANENTES: 72/2026 PARECER N° 72/2026 DAS COMISSÕES CONJUNTAMENTE REUNIDAS AO PROJETO DE LEI N° 731/2026. 26/06/2026 Autor: Comissão de Justiça, Legislação e Redação Final, Comissão de Obras, Serviços Públicos, Educação, Saúde e Assistência Social...",
-      "autor": "Comissão de Justiça",
-      "status": "Aprovado",
-      "data": "26/06/2026",
-      "link_original": "materias/2204",
-      "tramitacoes": [
-        {
-          "data": "26/06/2026",
-          "despacho": "Publicado no Portal Legislativo",
-          "unidade": "Secretaria Geral"
-        },
-        {
-          "data": "26/06/2026",
-          "despacho": "Aprovado",
-          "unidade": "Plenário"
-        }
-      ]
-    },
-    {
-      "id": "MAT-206",
-      "titulo": "Autor:",
-      "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final, Comissão de Obras, Serviços Públicos, Educação, Saúde e Assistência Social e Comissão de Orçamento e Finanças",
-      "autor": "Comissão de Justiça",
-      "status": "Em Comissão",
-      "data": "25/09/2026",
-      "link_original": "https://camaramorrinhos.ce.gov.br/materias",
-      "tramitacoes": [
-        {
-          "data": "25/09/2026",
-          "despacho": "Publicado no Portal Legislativo",
-          "unidade": "Secretaria Geral"
-        },
-        {
-          "data": "25/09/2026",
-          "despacho": "Em Comissão",
-          "unidade": "Plenário"
-        }
-      ]
-    },
-    {
-      "id": "MAT-207",
-      "titulo": "Fase:",
-      "ementa": "Fase: Lido, Discutido e Votado Nesta Sessão",
-      "autor": "Câmara Municipal de Morrinhos",
-      "status": "Em tramitação",
-      "data": "25/09/2026",
-      "link_original": "https://camaramorrinhos.ce.gov.br/materias",
-      "tramitacoes": [
-        {
-          "data": "25/09/2026",
-          "despacho": "Publicado no Portal Legislativo",
-          "unidade": "Secretaria Geral"
-        },
-        {
-          "data": "25/09/2026",
+          "data": "26/09/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
