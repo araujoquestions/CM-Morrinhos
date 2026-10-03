@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "02/10/2026 às 15:28:07",
-  "total": 73,
+  "ultima_atualizacao": "03/10/2026 às 14:10:00",
+  "total": 70,
   "materias": [
     {
       "id": "MAT-001",
@@ -29,16 +29,16 @@
       "ementa": "Autor: Jose Edson de Lira",
       "autor": "Jose Edson de Lira",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -50,16 +50,16 @@
       "ementa": "Fase: Leitura do Projeto",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -71,16 +71,16 @@
       "ementa": "Situação: Em Tramitação",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -113,16 +113,16 @@
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -134,16 +134,16 @@
       "ementa": "Fase: Leitura do Projeto",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -155,16 +155,16 @@
       "ementa": "Situação: Em Tramitação",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -175,7 +175,7 @@
       "titulo": "PARECER DA COMISSÃO DE SERVIÇO PÚBLICO, SAÚDE E EDUCAÇÃO: 89/2026",
       "ementa": "PARECER DA COMISSÃO DE SERVIÇO PÚBLICO, SAÚDE E EDUCAÇÃO: 89/2026 PROJETO DE LEI Nº 737/2026, QUE “INSTITUI A POLÍTICA MUNICIPAL DE ALFABETIZAÇÃO NO ÂMBITO DO MUNICÍPIO DE MORRINHOS/CE E DÁ OUTRAS PROVIDÊNCIAS”. 30/09/2026 Autor: Comissão de Obras, Serviços Públicos, Educação, Sa...",
       "autor": "Comissão de Obras",
-      "status": "Em Comissão",
+      "status": "Aprovado",
       "data": "30/09/2026",
       "link_original": "materias/2243",
       "tramitacoes": [
@@ -186,7 +186,7 @@
         },
         {
           "data": "30/09/2026",
-          "despacho": "Em Comissão",
+          "despacho": "Aprovado",
           "unidade": "Plenário"
         }
       ]
@@ -197,38 +197,17 @@
       "ementa": "Autor: Comissão de Obras, Serviços Públicos, Educação, Saúde e Assistência Social",
       "autor": "Comissão de Obras",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
-          "unidade": "Plenário"
-        }
-      ]
-    },
-    {
-      "id": "MAT-019",
-      "titulo": "Situação:",
-      "ementa": "Situação: Em Tramitação",
-      "autor": "Câmara Municipal de Morrinhos",
-      "status": "Em tramitação",
-      "data": "02/10/2026",
-      "link_original": "https://camaramorrinhos.ce.gov.br/materias",
-      "tramitacoes": [
-        {
-          "data": "02/10/2026",
-          "despacho": "Publicado no Portal Legislativo",
-          "unidade": "Secretaria Geral"
-        },
-        {
-          "data": "02/10/2026",
-          "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
@@ -238,7 +217,7 @@
       "titulo": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 88/2026",
       "ementa": "PARECER DA COMISSÃO DE JUSTIÇA, LEGISLAÇÃO E REDAÇÃO FINAL: 88/2026 PARECER AO SEGUINTE PROJETO: PROJETO DE LEI Nº 737/2026, QUE “INSTITUI A POLÍTICA MUNICIPAL DE ALFABETIZAÇÃO NO ÂMBITO DO MUNICÍPIO DE MORRINHOS/CE E DÁ OUTRAS PROVIDÊNCIAS”. 30/09/2026 Autor: Comissão de Justiça...",
       "autor": "Comissão de Justiça",
-      "status": "Em Comissão",
+      "status": "Aprovado",
       "data": "30/09/2026",
       "link_original": "materias/2242",
       "tramitacoes": [
@@ -249,7 +228,7 @@
         },
         {
           "data": "30/09/2026",
-          "despacho": "Em Comissão",
+          "despacho": "Aprovado",
           "unidade": "Plenário"
         }
       ]
@@ -260,38 +239,17 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
-          "unidade": "Plenário"
-        }
-      ]
-    },
-    {
-      "id": "MAT-026",
-      "titulo": "Situação:",
-      "ementa": "Situação: Em Tramitação",
-      "autor": "Câmara Municipal de Morrinhos",
-      "status": "Em tramitação",
-      "data": "02/10/2026",
-      "link_original": "https://camaramorrinhos.ce.gov.br/materias",
-      "tramitacoes": [
-        {
-          "data": "02/10/2026",
-          "despacho": "Publicado no Portal Legislativo",
-          "unidade": "Secretaria Geral"
-        },
-        {
-          "data": "02/10/2026",
-          "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
       ]
@@ -323,16 +281,16 @@
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -344,16 +302,16 @@
       "ementa": "Fase: Leitura do Projeto",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -365,16 +323,16 @@
       "ementa": "Situação: Em Tramitação",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -383,9 +341,9 @@
     {
       "id": "MAT-036",
       "titulo": "PROJETO DE LEI - EXECUTIVO : 0737/2026",
-      "ementa": "PROJETO DE LEI - EXECUTIVO : 0737/2026 PROJETO DE LEI N° 737/2026 QUE “INSTITUI A POLÍTICA MUNICIPAL DE ALFABETIZAÇÃO NO ÂMBITO DO MUNICÍPIO DE MORRINHOS /CE E DÁ OUTRAS PROVIDÊNCIAS”. 15/09/2026 Autor: Jerônimo Neto Brandão Fase: Votação Situação: Em Tramitação",
-      "autor": "Jerônimo Neto Brandão Fase: Votação Situação: Em Tramitação",
-      "status": "Em tramitação",
+      "ementa": "PROJETO DE LEI - EXECUTIVO : 0737/2026 PROJETO DE LEI N° 737/2026 QUE “INSTITUI A POLÍTICA MUNICIPAL DE ALFABETIZAÇÃO NO ÂMBITO DO MUNICÍPIO DE MORRINHOS /CE E DÁ OUTRAS PROVIDÊNCIAS”. 15/09/2026 Autor: Jerônimo Neto Brandão Fase: Votação Situação: Aprovado",
+      "autor": "Jerônimo Neto Brandão Fase: Votação Situação: Aprovado",
+      "status": "Aprovado",
       "data": "15/09/2026",
       "link_original": "materias/2240",
       "tramitacoes": [
@@ -396,7 +354,7 @@
         },
         {
           "data": "15/09/2026",
-          "despacho": "Em tramitação",
+          "despacho": "Aprovado",
           "unidade": "Plenário"
         }
       ]
@@ -407,37 +365,16 @@
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
-          "despacho": "Em tramitação",
-          "unidade": "Plenário"
-        }
-      ]
-    },
-    {
-      "id": "MAT-040",
-      "titulo": "Situação:",
-      "ementa": "Situação: Em Tramitação",
-      "autor": "Câmara Municipal de Morrinhos",
-      "status": "Em tramitação",
-      "data": "02/10/2026",
-      "link_original": "https://camaramorrinhos.ce.gov.br/materias",
-      "tramitacoes": [
-        {
-          "data": "02/10/2026",
-          "despacho": "Publicado no Portal Legislativo",
-          "unidade": "Secretaria Geral"
-        },
-        {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -470,16 +407,16 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -512,16 +449,16 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -554,16 +491,16 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -596,16 +533,16 @@
       "ementa": "Autor: Comissão de Orçamento e Finanças",
       "autor": "Comissão de Orçamento e Finanças",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -638,16 +575,16 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -680,16 +617,16 @@
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -722,16 +659,16 @@
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -764,16 +701,16 @@
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -806,16 +743,16 @@
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -848,16 +785,16 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -890,16 +827,16 @@
       "ementa": "Autor: Jose Ivan Araujo",
       "autor": "Jose Ivan Araujo",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -911,16 +848,16 @@
       "ementa": "Fase: Lido e Encaminhado Ao Destinatário",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -932,16 +869,16 @@
       "ementa": "Situação: Entregue Ao Destinatário",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -974,16 +911,16 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -1016,16 +953,16 @@
       "ementa": "Autor: Comissão de Obras, Serviços Públicos, Educação, Saúde e Assistência Social",
       "autor": "Comissão de Obras",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -1058,16 +995,16 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -1100,16 +1037,16 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -1142,16 +1079,16 @@
       "ementa": "Autor: Jose Edson de Lira",
       "autor": "Jose Edson de Lira",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -1184,16 +1121,16 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -1226,16 +1163,16 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -1268,16 +1205,16 @@
       "ementa": "Autor: Jerônimo Neto Brandão",
       "autor": "Jerônimo Neto Brandão",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -1310,16 +1247,16 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -1352,16 +1289,16 @@
       "ementa": "Autor: Comissão de Orçamento e Finanças",
       "autor": "Comissão de Orçamento e Finanças",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -1394,16 +1331,16 @@
       "ementa": "Autor: Comissão de Justiça, Legislação e Redação Final",
       "autor": "Comissão de Justiça",
       "status": "Em Comissão",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em Comissão",
           "unidade": "Plenário"
         }
@@ -1436,16 +1373,16 @@
       "ementa": "Autor: Marcos Antonio Teixeira Magalhaes",
       "autor": "Marcos Antonio Teixeira Magalhaes",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -1457,16 +1394,16 @@
       "ementa": "Fase: Lido e Encaminhado Ao Destinatário",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -1478,16 +1415,16 @@
       "ementa": "Situação: Entregue Ao Destinatário",
       "autor": "Câmara Municipal de Morrinhos",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
@@ -1520,16 +1457,16 @@
       "ementa": "Autor: Marcos Antonio Teixeira Magalhaes",
       "autor": "Marcos Antonio Teixeira Magalhaes",
       "status": "Em tramitação",
-      "data": "02/10/2026",
+      "data": "03/10/2026",
       "link_original": "https://camaramorrinhos.ce.gov.br/materias",
       "tramitacoes": [
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Publicado no Portal Legislativo",
           "unidade": "Secretaria Geral"
         },
         {
-          "data": "02/10/2026",
+          "data": "03/10/2026",
           "despacho": "Em tramitação",
           "unidade": "Plenário"
         }
